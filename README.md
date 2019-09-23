@@ -14,7 +14,7 @@ In a separate terminal tab, run `node app.js` to start the express server.
 
 When you have the node server up and running, navigate back to the react app. 
 The dummy users database is located under 
-    * `/routes/users.json`
+     * `/routes/users.json`
     
 Either create a brand new user **OR** use the existing generic users found in the users.json file
 
