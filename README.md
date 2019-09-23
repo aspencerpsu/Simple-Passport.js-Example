@@ -16,7 +16,7 @@ When you have the node server up and running, navigate back to the react app.
 The dummy users database is located under: <br/>
 
 
- ..* `/routes/users.json`
++ `/routes/users.json`
 
 
 
